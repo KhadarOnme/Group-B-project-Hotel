@@ -1455,8 +1455,13 @@ footer{
     font-size: 1.1em;
     opacity: 0.9;
     transition: 0.5s;
+    
 
 }
+    .footerNav ul{
+        gap: 30px;
+        list-style: none;
+    }
 /* about pageOne */
     .aboutPage{
     height: 900px;
